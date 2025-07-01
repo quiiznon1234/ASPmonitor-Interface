@@ -39,8 +39,6 @@
 
 ---
 
-## 🔧 Configuration Guide
-
 ### 🔗 Database Connection
 
 - The database connection string is stored in the file `uti.txt`.
