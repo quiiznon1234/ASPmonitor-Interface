@@ -1,0 +1,11 @@
+D:\ASPmonitor\ASPMonitorInterface\bin\Debug\ASPMonitorInterface.exe.config
+D:\ASPmonitor\ASPMonitorInterface\bin\Debug\ASPMonitorInterface.exe
+D:\ASPmonitor\ASPMonitorInterface\bin\Debug\ASPMonitorInterface.pdb
+D:\ASPmonitor\ASPMonitorInterface\obj\Debug\ASPMonitorInterface.csproj.AssemblyReference.cache
+D:\ASPmonitor\ASPMonitorInterface\obj\Debug\ASPMonitorInterface.Form1.resources
+D:\ASPmonitor\ASPMonitorInterface\obj\Debug\ASPMonitorInterface.Properties.Resources.resources
+D:\ASPmonitor\ASPMonitorInterface\obj\Debug\ASPMonitorInterface.csproj.GenerateResource.cache
+D:\ASPmonitor\ASPMonitorInterface\obj\Debug\ASPMonitorInterface.csproj.CoreCompileInputs.cache
+D:\ASPmonitor\ASPMonitorInterface\obj\Debug\ASPMonit.7E8D9AF3.Up2Date
+D:\ASPmonitor\ASPMonitorInterface\obj\Debug\ASPMonitorInterface.exe
+D:\ASPmonitor\ASPMonitorInterface\obj\Debug\ASPMonitorInterface.pdb

@@ -1,0 +1,3 @@
+13:58:53 เกิดข้อผิดพลาดในการโหลดค่าเริ่มต้น: String was not recognized as a valid Boolean.
+StackTrace:    at System.Boolean.Parse(String value)
+   at ASPMonitorInterface.Form1.Form1_Load(Object sender, EventArgs e) in D:\ASPmonitor\ASPMonitorInterface\Form1.cs:line 38

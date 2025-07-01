@@ -1,0 +1,9 @@
+14:53:28 เกิดข้อผิดพลาดในการโหลดค่าเริ่มต้น: Input string was not in a correct format.
+StackTrace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at ASPMonitorInterface.Form1.Form1_Load(Object sender, EventArgs e) in D:\ASPmonitor\ASPMonitorInterface\Form1.cs:line 43
+14:55:03 ผู้ป่วย: นายจิณณวัตร ใจเตรียม
+14:55:03 ผู้ป่วย: นายรณรงค์ ท้วมเจริญ
+14:55:03 ผู้ป่วย: นายรณรงค์ ท้วมเจริญ
+14:55:03 ✅ บันทึกไฟล์สำเร็จจำนวน 3 ไฟล์

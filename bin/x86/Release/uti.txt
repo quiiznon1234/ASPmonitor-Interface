@@ -1,0 +1,3 @@
+[Mycom]
+Folderresultfile=D:\File Result - Copy
+BackupPath=D:\Backup
