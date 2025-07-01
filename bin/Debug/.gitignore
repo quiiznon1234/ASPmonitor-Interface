@@ -1,0 +1,66 @@
+# Ignore build results
+bin/
+obj/
+out/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio temporary files
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Ignore backup & log files
+Logs/
+*.log
+*.bak
+*.tmp
+
+#Database
+uti.txt
+
+# Ignore publish folder
+publish/
+
+# Ignore database files
+*.mdf
+*.ldf
+*.ndf
+
+# Ignore package files
+*.zip
+*.rar
+*.7z
+
+# Ignore crash dumps
+*.dmp
+
+# Ignore Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Ignore compiled DLLs
+*.dll
+*.exe
+*.pdb
+
+# Ignore upgrade logs
+UpgradeLog*.XML
+UpgradeLog*.htm
+_UpgradeReport_Files/
+
+# Ignore ReSharper, Rider, and VSCode
+_ReSharper*/
+.idea/
+.vscode/
+*.DotSettings.user
+
+# Ignore NuGet packages folder (optional)
+packages/
+
+# Optional node_modules (if Node used somewhere)
+node_modules/
